@@ -1,10 +1,10 @@
 # Sibo
 Ta aplikacja Java na Androida została zaprojektowana, aby pomóc osobom z przerostem bakteryjnym jelita cienkiego (SIBO) znaleźć odpowiednie pokarmy do jedzenia. Aplikacja zawiera listę produktów, które są bezpieczne dla osób z SIBO. 
 # Funkcje 
-* Wyświetl obszerną listę produktów spożywczych przyjaznych dla SIBO
+* Wyświetlanie obszernej listy produktów spożywczych przyjaznych dla SIBO
 * Funkcja wyszukiwania w celu szybkiego znalezienia określonych produktów
 * Przyjazny dla użytkownika interfejs ułatwiający nawigację
-* Produktu koloru CZERWONEGO powinny być unikane
+* Produkty koloru CZERWONEGO powinny być unikane
 * Produkty koloru POMARAŃCZOWEGO mogą być spożywane w małych ilościach
 * Produkty koloru ZIELONEGO są dozwolone
 # Zrzuty ektanu
