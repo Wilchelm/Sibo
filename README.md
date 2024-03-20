@@ -13,5 +13,7 @@ Ta aplikacja Java na Androida została zaprojektowana, aby pomóc osobom z przer
 Aby zainstalować aplikację na urządzeniu z Androidem, po prostu pobierz plik APK z repozytorium i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie, aby go zainstalować.
 # Zastosowanie
 Po zainstalowaniu aplikacji otwórz ją i przejrzyj listę produktów przyjaznych dla SIBO. Użyj funkcji wyszukiwania, aby znaleźć określone elementy. 
+# Pochodzenie listy
+Lista produktów powstała poprzez zebranie dużego zbioru anglojęzycznych produktów diety "Low FOODMAP Diet" następnie przetłumaczona i zweryfikowana poprzez wyszukanie zdjęcia każdego z produktów.
 # Zastrzeżenie
 Należy pamiętać, że ta lista żywności przyjaznej dla SIBO służy wyłącznie celom informacyjnym i nie powinna zastępować profesjonalnej porady medycznej. Skonsultuj się z lekarzem lub zarejestrowanym dietetykiem przed wprowadzeniem jakichkolwiek zmian w diecie.
