@@ -10,7 +10,7 @@ Ta aplikacja Java na Androida została zaprojektowana, aby pomóc osobom z przer
 # Zrzuty ektanu
 <img src="Screenshot1.png" width=40%> <img src="Screenshot2.png" width=40%>
 # Instalacja 
-Aby zainstalować aplikację na urządzeniu z Androidem, po prostu pobierz plik APK z repozytorium i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie, aby go zainstalować.
+Aby uruchomić tę aplikację, możesz pobrać kod źródłowy i zaimportować go do Android Studio. Upewnij się, że masz zainstalowane niezbędne narzędzia Android SDK.
 # Zastosowanie
 Po zainstalowaniu aplikacji otwórz ją i przejrzyj listę produktów przyjaznych dla SIBO. Użyj funkcji wyszukiwania, aby znaleźć określone elementy. 
 # Pochodzenie listy
